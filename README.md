@@ -1,0 +1,2 @@
+# mfds
+The package includes fifteen labeled multivariate functional data sets. The data sets were created from multivariate time series data available in the literature by extending all   variables to the same length. They originate from different   domains, including handwriting recognition, medicine,   robotics, etc. The data sets can be used for illustrating and evaluating practical efficiency of classification and statistical inference methods.
