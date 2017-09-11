@@ -10,5 +10,3 @@ Depends: R (>= 2.10)
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
-NeedsCompilation: no
-Packaged: 2017-08-23 15:45:49 UTC; ls

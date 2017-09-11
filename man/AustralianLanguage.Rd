@@ -43,7 +43,7 @@ A list of length 23 with the following components:
   }
 }
 \note{
-The samples in this data set were originaly of different lengths. They were extended to the length of the longest sample in the data set (Gorecki and Luczak, 2015).
+The samples in this data set were originally of different lengths. They were extended to the length of the longest sample in the data set (Gorecki and Luczak, 2015).
 }
 \source{
 Lichman M (2013). UCI Machine Learning Repository [\url{http://archive.ics.uci.edu/ml}]. Irvine, CA: University of California, School of Information and Computer Science.
